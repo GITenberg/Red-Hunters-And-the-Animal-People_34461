@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/187
     wikipedia: http://en.wikipedia.org/wiki/Charles_Eastman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34461#Red-Hunters-And-the-Animal-People
 gutenberg_issued: '2010-11-27'
 gutenberg_type: Text
 identifiers:
